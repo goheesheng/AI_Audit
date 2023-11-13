@@ -6,7 +6,7 @@
 
 Welcome to Langchain, a powerful tool for building AI models to analyze smart contracts and scrape data on vulnerabilities. This README will guide you through the process of setting up the Langchain environment, utilizing open-source data sources such as Spearbit and ConsenSys, and combining them into a vector database. Additionally, we'll explore the integration of the FAISS search engine by Facebook for efficient querying.
 
-#### P.S This was done a year ago, and I forgotten to upload to this repo, do update if required!
+#### P.S This was done a year ago, and I forgotten to upload this repo, do update if required!
 
 ## Prerequisites
 
